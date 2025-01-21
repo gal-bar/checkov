@@ -5,3 +5,4 @@ RUN wget -q -O get_kustomize.sh https://raw.githubusercontent.com/kubernetes-sig
  mkdir -p /usr/local/bin; \
  sudo sh -c './get_kustomize.sh 4.5.2 /usr/local/bin'; \
  rm ./get_kustomize.sh
+dsfdsfdsf
